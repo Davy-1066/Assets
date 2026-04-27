@@ -1,0 +1,33 @@
+<svg width="680" height="460" viewBox="0 0 680 460" xmlns="http://www.w3.org/2000/svg">
+<title>Die Engineering — Asia Pacific</title>
+<defs>
+  <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+    <path d="M 24 0 L 0 0 0 24" fill="none" stroke="rgba(90,160,247,0.04)" stroke-width="0.5"/>
+  </pattern>
+</defs>
+<rect width="680" height="460" fill="url(#g)"/>
+<rect x="60" y="50" width="560" height="360" rx="3" fill="none" stroke="#e6672a" stroke-width="2.5"/>
+<rect x="67" y="57" width="546" height="346" rx="2" fill="none" stroke="#e6672a" stroke-width="0.5" opacity="0.3"/>
+<line x1="60" y1="90"  x2="42" y2="90"  stroke="#e6672a" stroke-width="1.5"/>
+<line x1="60" y1="370" x2="42" y2="370" stroke="#e6672a" stroke-width="1.5"/>
+<line x1="620" y1="90"  x2="638" y2="90"  stroke="#e6672a" stroke-width="1.5"/>
+<line x1="620" y1="370" x2="638" y2="370" stroke="#e6672a" stroke-width="1.5"/>
+<line x1="170" y1="50" x2="170" y2="32"  stroke="#e6672a" stroke-width="1.5"/>
+<line x1="510" y1="50" x2="510" y2="32"  stroke="#e6672a" stroke-width="1.5"/>
+<line x1="170" y1="410" x2="170" y2="428" stroke="#e6672a" stroke-width="1.5"/>
+<line x1="510" y1="410" x2="510" y2="428" stroke="#e6672a" stroke-width="1.5"/>
+<rect x="60" y="50" width="560" height="8" fill="#c0392b"/>
+<rect x="60" y="402" width="560" height="8" fill="#c0392b"/>
+<text x="340" y="310" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="260" font-weight="800" fill="#1a1f2b" opacity="0.06" text-anchor="middle" letter-spacing="-8">DE</text>
+<text x="340" y="195" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="80" font-weight="800" fill="#1a1f2b" text-anchor="middle" letter-spacing="6">DIE</text>
+<text x="340" y="278" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="72" font-weight="800" fill="#1a1f2b" text-anchor="middle" letter-spacing="2">ENGINEERING</text>
+<line x1="90" y1="300" x2="270" y2="300" stroke="#e6672a" stroke-width="0.8" opacity="0.5"/>
+<line x1="410" y1="300" x2="590" y2="300" stroke="#e6672a" stroke-width="0.8" opacity="0.5"/>
+<text x="340" y="305" font-family="'JetBrains Mono', monospace" font-size="10" fill="#e6672a" text-anchor="middle" letter-spacing="3">✦</text>
+<text x="340" y="344" font-family="'Barlow Condensed', Arial Narrow, sans-serif" font-size="34" font-weight="400" fill="#1a1f2b" text-anchor="middle" letter-spacing="12">ASIA PACIFIC</text>
+<text x="200" y="385" font-family="'JetBrains Mono', monospace" font-size="10" fill="#1a1f2b" text-anchor="middle" letter-spacing="4">DE</text>
+<line x1="240" y1="381" x2="440" y2="381" stroke="#3a4560" stroke-width="0.5"/>
+<text x="480" y="385" font-family="'JetBrains Mono', monospace" font-size="10" fill="#1a1f2b" text-anchor="middle" letter-spacing="4">DIE LIFE</text>
+<text x="76" y="230" font-family="monospace" font-size="8" fill="#3a4560" text-anchor="middle" transform="rotate(-90,76,230)" letter-spacing="3">SN-DE-001</text>
+<text x="604" y="230" font-family="monospace" font-size="8" fill="#3a4560" text-anchor="middle" transform="rotate(90,604,230)" letter-spacing="3">REV-B</text>
+</svg>
